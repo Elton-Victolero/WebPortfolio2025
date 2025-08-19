@@ -28,7 +28,7 @@ export default function Contact() {
             <Form.Control as="textarea" rows={4} name="entry.32186357" placeholder="Your Message" className="mb-3" required />
             <Button type="submit" className="custom-btn-primary w-100">Send Message</Button>
           </Form>
-        ) : <p className="text-success mt-3">✅ \\Thank you! Your message has been sent.</p>}
+        ) : <p className="text-success mt-3">Thank you! Your message has been sent.</p>}
       </Container>
     </section>
   );
