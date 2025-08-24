@@ -10,6 +10,11 @@ a {
   text-decoration: none;
 }
 
+#name {
+  font-family: "Adobe Pi Std", serif;
+  font-size: 10rem;
+  letter-spacing: 2px;
+}
 
 /* ---------- Navbar ---------- */
 .neon-nav {
